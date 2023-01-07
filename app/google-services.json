@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "836291252569",
+    "project_id": "notifications-df838",
+    "storage_bucket": "notifications-df838.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836291252569:android:da1fad067fb7d290737c48",
+        "android_client_info": {
+          "package_name": "com.goldsikka.notificationtesting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836291252569-sdpm3dv6jbv7ihh57f6o7apdb5l63g9m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goldsikka.notificationtesting",
+            "certificate_hash": "3f090a9ea89d79e347f7e51374e0aead1e7dc081"
+          }
+        },
+        {
+          "client_id": "836291252569-nmt155lti2i65qbjun2t3nu9no1cullh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfEXb-c-p2JFkJGayoo3Ue25_MkA7ulUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836291252569-nmt155lti2i65qbjun2t3nu9no1cullh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836291252569:android:475562e520617e5b737c48",
+        "android_client_info": {
+          "package_name": "com.goldsikka.singlenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836291252569-nmt155lti2i65qbjun2t3nu9no1cullh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfEXb-c-p2JFkJGayoo3Ue25_MkA7ulUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836291252569-nmt155lti2i65qbjun2t3nu9no1cullh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+
